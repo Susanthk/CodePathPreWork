@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pre-work - *Tip Calculator*
 
 **Tip Calculator** is a tip calculator application for iOS.
@@ -48,3 +49,8 @@ First challenge was that it was my first time using swift so took some time to g
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+# CodePath
+CodePath Prework - Tip Calculator
+Created a tip caluclator utilizing storyboard
+>>>>>>> cdda0ccd75ebec637404044c23707078cf75e02e
